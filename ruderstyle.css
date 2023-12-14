@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+    .home{
+        text-align: center;
+        padding: 20px 0px;
+    }
+    .home2{
+        text-align: center;
+        padding: 70px 0px;
+    }
+    .home3{
+        text-align: center;
+        padding: 0px 50px;
+    }
+    .history{
+        text-align: center;
+        padding: 420px 0px;
+    }
+    .history2{
+        text-align: center;
+        padding: 10px 20px;
+    }
+    .Interview{
+        text-align: center;
+        margin-top: 400px;
+    }
+    .Interview2{
+        background-color: black;
+        text-align: center;
+        margin-top: -120px;
+        background-color: black;
+        text-align: center;
+        width: 100%;
+        font-family: 'Pretendard-Regular';
+        src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+        font-size: 25px;
+        font-style: bold;
+        color: white;
+     }
+    .Philosophy{
+        width: 100%;
+        font-family: 'Pretendard-Regular';
+        src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+        font-size: 18px;
+        font-style: Regular;
+        color: white;
+        background-image: url(Emil_Ruder/페이지5_bg.png);
+        line-height: 30px
+    }
+    .end{
+        background-color: white;
+        text-align: center;  
+    }
